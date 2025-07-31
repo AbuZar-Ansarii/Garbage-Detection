@@ -1,5 +1,5 @@
 ## 🗑️ Garbage Classification App using CNN
-# A simple and interactive Streamlit web app that classifies garbage images into categories like cardboard, glass, metal, paper, plastic, and trash using a Convolutional Neural Network (CNN) trained on the Kaggle Garbage Dataset.
+A simple and interactive Streamlit web app that classifies garbage images into categories like cardboard, glass, metal, paper, plastic, and trash using a Convolutional Neural Network (CNN) trained on the Kaggle Garbage Dataset.
 
 ## 🚀 Web App Demo
 
